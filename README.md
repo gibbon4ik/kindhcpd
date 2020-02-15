@@ -1,2 +1,2 @@
 # kindhcpd
-dhcp server
+Simple perl dhcp server
